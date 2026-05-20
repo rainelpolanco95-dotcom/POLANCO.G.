@@ -1,0 +1,45 @@
+# 🚀 POLANCO.G
+
+Página web profesional de mercadeo digital, branding, publicidad y ventas creada con HTML, CSS y JavaScript.
+
+## 🌟 Descripción
+
+POLANCO.G es una página web moderna y responsiva enfocada en:
+
+- Marketing digital
+- Branding
+- Publicidad online
+- Diseño gráfico
+- Desarrollo web
+- Ventas digitales
+
+La página cuenta con un diseño premium, animaciones modernas y un sistema de contacto integrado con WhatsApp.
+
+---
+
+# 🛠️ Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Diseño Responsive
+
+---
+
+# 📁 Estructura del Proyecto
+
+```bash
+POLANCO.G/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── .gitignore
+│
+├── img/
+│   ├── imagen.(logo)1.jpeg
+│   ├── imagen (todo).jpeg
+│   ├── imagen100.jpeg
+│   └── ...
