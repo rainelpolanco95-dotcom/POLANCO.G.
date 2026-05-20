@@ -43,3 +43,41 @@ POLANCO.G/
 │   ├── imagen (todo).jpeg
 │   ├── imagen100.jpeg
 │   └── ...
+✨ Funciones Principales
+✅ Diseño Responsive
+
+Compatible con:
+
+Computadoras
+Tablets
+Celulares
+✅ Menú dinámico
+
+Menú adaptable para móviles.
+
+✅ Formulario Inteligente
+
+El formulario conecta automáticamente con WhatsApp.
+
+✅ Animaciones Modernas
+
+Efectos visuales suaves y profesionales.
+
+✅ Empresas Aliadas
+
+Sección para mostrar páginas asociadas y socios digitales.
+
+📲 Contacto
+📧 Correo
+
+rainelpolanco95@gmail.com
+
+📱 WhatsApp
+
+829-232-1745
+
+🌐 Autor
+
+Desarrollado por POLANCO.G
+
+© 2026 Todos los derechos reservados
